@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Comprobar que el producto seleccionado se encuentre en el carrito","realizar una compra de varios productos","SUCCESS","2024-09-27T11:24:49.9195171-05:00[America/Bogota]","0.0","20.97"
+"Ingreso a la tienda virtual","verificar mensaje de error al ingresar credenciales invalidas","SUCCESS","2023-10-17T14:28:45.6149736-05:00[America/Bogota]","0.0","8.63"

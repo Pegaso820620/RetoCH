@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Comprobar que el producto seleccionado se encuentre en el carrito","realizar una compra de un producto","SUCCESS","2024-09-27T11:24:06.8676967-05:00[America/Bogota]","0.0","24.81"
+"Comprobar que el producto seleccionado se encuentre en el carrito","validar campos vacios en informacion de envio","SUCCESS","2024-09-27T11:24:31.6962554-05:00[America/Bogota]","0.0","18.21"
+"Comprobar que el producto seleccionado se encuentre en el carrito","realizar una compra de varios productos","SUCCESS","2024-09-27T11:24:49.9195171-05:00[America/Bogota]","0.0","20.97"

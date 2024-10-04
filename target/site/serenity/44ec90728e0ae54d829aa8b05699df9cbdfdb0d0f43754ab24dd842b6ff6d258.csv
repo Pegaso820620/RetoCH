@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Comprobar que el producto seleccionado se encuentre en el carrito","seleccionar varios productos al carrito de compras","SUCCESS","2023-10-17T14:27:25.6016823-05:00[America/Bogota]","0.0","16.87"
+"Comprobar que el producto seleccionado se encuentre en el carrito","validar campos vacios en informacion de envio","SUCCESS","2024-09-27T11:24:31.6962554-05:00[America/Bogota]","0.0","18.21"
+"Ingreso a la tienda virtual","verificar el ingreso correcto con diferentes usuarios","SUCCESS","2023-10-17T14:28:13.5982485-05:00[America/Bogota]","0.0","32.01"
